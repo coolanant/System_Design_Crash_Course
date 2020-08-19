@@ -1,7 +1,7 @@
 # What is covered in pdf?
 
 1. Scaling (horizontal vs Vertical)
-2. LoadBalaancer, Decoupling, Consistent hashing, Message task Queue, notifier
+2. LoadBalancer, Decoupling, Consistent hashing, Message task Queue, notifier
 3. monolith vs microservices
 4. database Sharding
 5. case study
